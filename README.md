@@ -4,6 +4,8 @@
 
 Vanilla JS Project - Selecting Movie Seats
 
+View project @: https://devoyno.github.io/movie_seats/
+
 ## Movie Seat Booking
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
